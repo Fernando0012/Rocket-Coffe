@@ -12,9 +12,6 @@
     text-decoration: none;
 }
 
-html{
-    display: flex;
-}
 
 ::-webkit-scrollbar{
     width: 8px;
